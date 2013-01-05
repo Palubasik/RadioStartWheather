@@ -1,0 +1,5 @@
+D:\RYM\Projects\NewLand\RadioStart\RadioStartServices\RadioStart.WheatherGadgetProcess\bin\Debug\RadioStart.WheatherGadgetProcess.dll
+D:\RYM\Projects\NewLand\RadioStart\RadioStartServices\RadioStart.WheatherGadgetProcess\bin\Debug\RadioStart.WheatherGadgetProcess.pdb
+D:\RYM\Projects\NewLand\RadioStart\RadioStartServices\RadioStart.WheatherGadgetProcess\obj\Debug\ResolveAssemblyReference.cache
+D:\RYM\Projects\NewLand\RadioStart\RadioStartServices\RadioStart.WheatherGadgetProcess\obj\Debug\RadioStart.WheatherGadgetProcess.dll
+D:\RYM\Projects\NewLand\RadioStart\RadioStartServices\RadioStart.WheatherGadgetProcess\obj\Debug\RadioStart.WheatherGadgetProcess.pdb

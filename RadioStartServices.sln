@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioStart.WheatherGadgetConfigurator", "RadioStart.WheatherGadgetConfigurator\RadioStart.WheatherGadgetConfigurator.csproj", "{DF99C677-C007-4386-BF3C-B89281067F86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadioStart.WheatherGadgetProcess", "RadioStart.WheatherGadgetProcess\RadioStart.WheatherGadgetProcess.csproj", "{E1494C45-90EC-480B-A338-6AB98687C0B8}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Site", "Site\", "{14275D7F-9AE4-431E-9ECF-685D47E2A852}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/Site"
+		Debug.AspNetCompiler.PhysicalPath = "Site\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Site\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Site"
+		Release.AspNetCompiler.PhysicalPath = "Site\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Site\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1977"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Debug|x86.ActiveCfg = Debug|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Debug|x86.Build.0 = Debug|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Release|Any CPU.ActiveCfg = Release|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Release|Mixed Platforms.Build.0 = Release|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Release|x86.ActiveCfg = Release|x86
+		{DF99C677-C007-4386-BF3C-B89281067F86}.Release|x86.Build.0 = Release|x86
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E1494C45-90EC-480B-A338-6AB98687C0B8}.Release|x86.ActiveCfg = Release|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{14275D7F-9AE4-431E-9ECF-685D47E2A852}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
